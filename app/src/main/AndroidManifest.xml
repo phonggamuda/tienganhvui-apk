@@ -9,6 +9,8 @@
     <application
         android:allowBackup="true"
         android:label="Tiếng Anh Vui"
+        android:icon="@drawable/ic_launcher"
+        android:roundIcon="@drawable/ic_launcher"
         android:usesCleartextTraffic="false"
         android:hardwareAccelerated="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
